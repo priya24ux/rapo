@@ -1,1 +1,1 @@
-My first project of git and git hub.
+My first project of git and git hub. Git version control workflow.
